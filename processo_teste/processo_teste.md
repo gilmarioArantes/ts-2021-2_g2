@@ -5,9 +5,8 @@ Este arquivo objetiva as definições preliminares a respeito do trabalho final,
 
 INSTRUÇÕES:
 1. Esta tarefa é para ser elaborada pelo grupo de trabalho.
-2. O Documento final contendo as definições solicitadas deve ser disponibilizado no repositório de trabalho do grupo, no _github_.
-3. Criar uma pasta chamada **docs**, na _branch_ de algum dos componentes do grupo.
-4. Fazer o _commit_ do arquivo de definição do projeto, nesta pasta. Este arquivo deverá ter o formato _odt_ e se chamar **pts_definicao.odt**.
+2. O Documento final do processo deve ser disponibilizado no repositório de trabalho do grupo, no _github_.
+4. Fazer o _commit_ do arquivo de definição do processo, na pasta **processo_teste**. Este arquivo deverá ter o formato _odt_ e se chamar **processo_teste_g<numero_grupo>.odt**.
 5. Após o _commit_ fazer o _merge_ para a _branch develop_.
 **Relembrando** o professor só consultará as atualizações constantes desta _branch_. Desta forma, é importante que após a atualização de qualquer das _branchs_ dos membros do grupo, é necessária a atualização (_merge_) para a _branch develop_.
 6. Cada componente do grupo deverá atualizar (fazer merge) da _branch_ que contém seu nome, a partir do conteúdo da _branch develop_.
